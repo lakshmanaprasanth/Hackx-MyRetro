@@ -2,6 +2,9 @@
 
 This project is personal analysis tool which will help you get better every day.
 
+Dashboard Frontend Code : https://github.com/sonali-sawlani/hackx-myretro
+Graphana Dashboards: http://3.110.43.132:3000/dashboards
+
 ---------------------------------------
 
 # Grafana dashboards:
