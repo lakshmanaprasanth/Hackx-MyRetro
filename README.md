@@ -4,6 +4,8 @@ This project is personal analysis tool which will help you get better every day.
 
 Dashboard Frontend Code : https://github.com/sonali-sawlani/hackx-myretro
 Graphana Dashboards: http://3.110.43.132:3000/dashboards
+![image](https://user-images.githubusercontent.com/26659421/136685327-e6374977-fe90-4ef8-b2f0-3925c7037105.png)
+
 
 ---------------------------------------
 
