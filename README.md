@@ -1,6 +1,6 @@
 # Hackx Myretro
 
-This project is personal analysis tool and help you be better every day.
+This project is personal analysis tool which will help you get better every day.
 
 ---------------------------------------
 
